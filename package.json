@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  },
+  "name": "My-puppeteer-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
